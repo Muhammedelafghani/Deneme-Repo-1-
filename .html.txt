@@ -1,0 +1,148 @@
+<!doctype html>
+<html lang="tr">
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width-device-width, initial-scale=1, shrink-to-fit=no">
+
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/style.css">      
+    <link rel="stylesheet" href="css/font-awesome.css">
+    </head>     
+  <body>
+     <nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top">
+       <div class="container">
+           <button class="navbar-toggler" data-toggle="collapse" data target="#nvbCollapse">
+               <span class="navbar-toggler-icon"></span>
+           </button>
+           <a href="#" class="navbar-brand">Flower Shop</a>
+           <div class="collapse navbar-collapse" id="nvbCollapse">
+             <ul class="navbar-nav ml-auto"> 
+              <li class="nav-item">
+               <a class="nav-link" href="#">Anasayfa</a>
+               </li>  
+           <li class="nav-item">
+               <a class="nav-link" href="#">Hakkýmýzda</a>
+               </li>
+           <li class="nav-item">
+                   <a class="nav-link" href="#">Ürünlerimiz</a>
+               </li>
+           <li class="nav-item">
+               <a class="nav-link" href="#">Ýletiþim</a>
+                 </li>
+               </ul>
+           </div>
+         </div>
+      </nav> 
+      
+      <!--Header Kýsmý-->
+      
+      <header id="headersection">
+       <div class="overlay">
+          <div class="container">
+            <div class="row text-center">
+              <div class="col my-auto">
+                  <h1 style="color: black; margin-top: 200px;" class="display-3"> <span>Bir çiçek al</span> ve baharý baþlat...</h1>
+                  <p class="text-muted"><em>Bir çiçek ile bahar olmaz ama her bahar bir çiçekle baþlar.</em></p>
+                  <button type="button" class="btn btn-outline-primary">Bahar gelsin</button>
+                </div>
+              </div>
+           </div>
+          </div>
+                  </header> 
+       
+                <!--Özellikler Kýsmý-->
+                  
+              <section id="features" class="pt-5">
+               <div class="container">
+                   <div class="row">
+                       <div class="col-md-3 text-center">
+                           <div class="feature">
+                               <i class="fa fa-ravelry"> </i>
+                                         <h3>En Büyük Market</h3>
+                                         <p> Yüzyýlýn en büyük çiçek marketini açarak tarihe geçtik... </p>
+                                         </div>
+                       </div>
+                           <div class="col-md-3 text-center">
+                           <div class="feature">
+                               <i class="fa fa-ravelry"> </i>
+                                         <h3>Uzman Mühendisler Eþliðinde</h3>
+                                         <p> Alanýnda uzman ziraat mühendisleri rehberliðinde özenle yetiþtirilen çiçekler... </p>
+                                         </div>
+                       </div>
+                           <div class="col-md-3 text-center">
+                           <div class="feature">
+                               <i class="fa fa-ravelry"> </i>
+                                         <h3>Dýþa da Açýldýk</h3>
+                                         <p> Son 20 yýlýn en çok ihracat yapan çiçek firmasýyýz... </p>
+                                         </div>
+                       </div>
+                           <div class="col-md-3 text-center">
+                           <div class="feature">
+                               <i class="fa fa-ravelry"> </i>
+                                         <h3>Zirvedeyiz</h3>
+                                         <p> 2018 yýlýnda 2.760.000 adet satýþ yaparak alanýmýzdaki rakiplerimizi geride býraktýk... </p>
+                                         </div>
+                       </div>
+                            
+              <!-- Sanýrým Font Awesome ikonlarýndan bazýlarý çalýþmýyor, onun yerine transparent geçiþli resimler kullanacaðým. Resim sitesinin adý: Unplash.-->
+              <!-- Font Awesome ikonlarýnýn isimlerini yer imlerine ekledim, kullanacaðým zaman ordan bakarým-->
+                       
+                     
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                   
+        
+                   </div> </div> </section>     
+      
+      
+      
+      
+      
+       
+      
+      
+      
+      
+      
+      
+      
+      
+      
+                                           
+                                                     
+    <script src="js/jquery-3.4.1.js"></script>
+    <script src="js/popper.min.js" ></script>
+    <script type="text/javascript" src="js/bootstrap.js"></script>
+   </body>
+</html>

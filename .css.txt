@@ -1,0 +1,33 @@
+.navbar {
+ border-bottom: #1886C7 3px solid;
+}
+.navbar-brand {
+    color: #1886C7 !important;
+    font-size: 23px;
+}
+.nav-link {
+    text-transform: uppercase !important;
+    transition: linear 0.4s;
+}
+.nav-link:hover {
+    color: #1886C7 !important;
+}
+#headersection {
+    background: url('../images/elijah-m-henderson-gwRH3htxZZ0-unsplash.jpg');
+    background-size: cover;
+    height: 100vh;
+}
+#headersection span {
+    color: #1886C7 !important;
+}
+.btn-outline-primary {
+    padding right: 32px;
+    padding left: 32px;
+    border-radius: 0px; 
+    cursor: pointer;
+}
+#features h3:hover {
+    color: #1886C7;
+    cursor: pointer;
+    transition: linear 0.3s;
+} 
